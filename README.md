@@ -1,0 +1,1 @@
+# newspaper-magazine-management-system
